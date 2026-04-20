@@ -1,2 +1,1 @@
-# .github
-README
+https://dendritic.oeiuwq.com
