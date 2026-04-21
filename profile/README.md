@@ -4,3 +4,7 @@
 > But I feel like what you guys are building is the first real “pong” to Eeco’s ping that I’ve seen.
 >  “Oh, you gave us a Turing-complete functional programming language? Let’s use it to build abstractions instead of just clumsily working around it.”
 > -- @theutz
+
+
+> careful with statements like that, vic will copy it into the readme
+> -- @sini
